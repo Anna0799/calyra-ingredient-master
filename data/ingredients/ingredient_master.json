@@ -1,0 +1,1832 @@
+{
+  "version": "1.0",
+  "status": "approved",
+  "source_pdf": "Calyra_Ingredient_Master_v2_Final.pdf",
+  "ingredients": [
+    {
+      "canonical_name_pl": "mleko",
+      "name_en": "milk",
+      "name_de": "Milch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jajka",
+      "name_en": "eggs",
+      "name_de": "Eier",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "waniliowy serek homogenizowany",
+      "name_en": "vanilla quark",
+      "name_de": "Vanillequark",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "miód",
+      "name_en": "honey",
+      "name_de": "Honig",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser feta",
+      "name_en": "feta cheese",
+      "name_de": "Fetakäse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser mozzarella",
+      "name_en": "mozzarella cheese",
+      "name_de": "Mozzarella",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser mozzarella wiórki",
+      "name_en": "shredded mozzarella cheese",
+      "name_de": "geriebener Mozzarella",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mini kulki mozzarelli",
+      "name_en": "mini mozzarella balls",
+      "name_de": "Mini-Mozzarellakugeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "twaróg",
+      "name_en": "quark",
+      "name_de": "Quark",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "twaróg chudy",
+      "name_en": "low-fat quark",
+      "name_de": "Magerquark",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "serek homogenizowany",
+      "name_en": "quark",
+      "name_de": "Quark",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tortilla pełnoziarnista",
+      "name_en": "whole-wheat tortilla",
+      "name_de": "Vollkorn-Tortilla",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tortilla bez glutenu",
+      "name_en": "gluten-free tortilla",
+      "name_de": "glutenfreie Tortilla",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "owoce leśne",
+      "name_en": "mixed berries",
+      "name_de": "Waldfrüchte",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomidor",
+      "name_en": "tomato",
+      "name_de": "Tomate",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomidor koktajlowy",
+      "name_en": "cherry tomato",
+      "name_de": "Kirschtomate",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomidor pelati",
+      "name_en": "pelati tomatoes",
+      "name_de": "Pelati-Tomaten",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomidory z puszki",
+      "name_en": "canned tomatoes",
+      "name_de": "Dosentomaten",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "suszone pomidory",
+      "name_en": "sun-dried tomatoes",
+      "name_de": "getrocknete Tomaten",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "koncentrat pomidorowy",
+      "name_en": "tomato paste",
+      "name_de": "Tomatenmark",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka",
+      "name_en": "bell pepper",
+      "name_de": "Paprika",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka czerwona",
+      "name_en": "red bell pepper",
+      "name_de": "rote Paprika",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka zielona",
+      "name_en": "green bell pepper",
+      "name_de": "grüne Paprika",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka żółta",
+      "name_en": "yellow bell pepper",
+      "name_de": "gelbe Paprika",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka chilli",
+      "name_en": "chilli pepper",
+      "name_de": "Chilischote",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka jalapeño",
+      "name_en": "jalapeño pepper",
+      "name_de": "Jalapeño",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "truskawki",
+      "name_en": "strawberries",
+      "name_de": "Erdbeeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "truskawki mrożone",
+      "name_en": "frozen strawberries",
+      "name_de": "gefrorene Erdbeeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "maliny",
+      "name_en": "raspberries",
+      "name_de": "Himbeeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "maliny mrożone",
+      "name_en": "frozen raspberries",
+      "name_de": "gefrorene Himbeeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "brzoskwinia mrożona",
+      "name_en": "frozen peach",
+      "name_de": "gefrorener Pfirsich",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "brzoskwinia z puszki",
+      "name_en": "canned peach",
+      "name_de": "Pfirsich aus der Dose",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jabłko prażone",
+      "name_en": "stewed apple",
+      "name_de": "gedünsteter Apfel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jabłko pieczone",
+      "name_en": "baked apple",
+      "name_de": "gebackener Apfel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jabłko",
+      "name_en": "apple",
+      "name_de": "Apfel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mango z puszki",
+      "name_en": "canned mango",
+      "name_de": "Mango aus der Dose",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mango",
+      "name_en": "fresh mango",
+      "name_de": "frische Mango",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kukurydza z puszki",
+      "name_en": "canned corn",
+      "name_de": "Mais aus der Dose",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kukurydza mrożona",
+      "name_en": "frozen corn",
+      "name_de": "Tiefkühlmais",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cebula",
+      "name_en": "onion",
+      "name_de": "Zwiebel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cebula czerwona",
+      "name_en": "red onion",
+      "name_de": "rote Zwiebel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cebula konserwowa",
+      "name_en": "pickled onion",
+      "name_de": "eingelegte Zwiebeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "oliwki",
+      "name_en": "olives",
+      "name_de": "Oliven",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "oliwki czarne",
+      "name_en": "black olives",
+      "name_de": "schwarze Oliven",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "oliwki zielone i czarne",
+      "name_en": "green & black olives",
+      "name_de": "grüne & schwarze Oliven",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "oliwa z oliwek",
+      "name_en": "olive oil",
+      "name_de": "Olivenöl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "olej kokosowy",
+      "name_en": "coconut oil",
+      "name_de": "Kokosöl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "olej rzepakowy",
+      "name_en": "rapeseed oil",
+      "name_de": "Rapsöl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bułka",
+      "name_en": "bread roll",
+      "name_de": "Brötchen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bułka z ziarnami",
+      "name_en": "seeded bread roll",
+      "name_de": "Körnerbrötchen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bułka tarta",
+      "name_en": "breadcrumbs",
+      "name_de": "Paniermehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chleb",
+      "name_en": "bread",
+      "name_de": "Brot",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chleb żytni",
+      "name_en": "rye bread",
+      "name_de": "Roggenbrot",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chleb żytni pełnoziarnisty",
+      "name_en": "whole-grain rye bread",
+      "name_de": "Vollkornroggenbrot",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chleb tostowy razowy",
+      "name_en": "whole-wheat toast bread",
+      "name_de": "Vollkorntoastbrot",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chleb bez glutenu",
+      "name_en": "gluten-free bread",
+      "name_de": "glutenfreies Brot",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jogurt naturalny",
+      "name_en": "natural yogurt",
+      "name_de": "Naturjoghurt",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "serek wiejski",
+      "name_en": "cottage cheese",
+      "name_de": "Hüttenkäse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "masło",
+      "name_en": "butter",
+      "name_de": "Butter",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser gouda",
+      "name_en": "Gouda cheese",
+      "name_de": "Gouda",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser żółty",
+      "name_en": "yellow cheese",
+      "name_de": "Schnittkäse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "polędwica sopocka",
+      "name_en": "Polish Sopot loin",
+      "name_de": "Polnische Sopoter Lende",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "płatki owsiane",
+      "name_en": "oats",
+      "name_de": "Haferflocken",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza jaglana",
+      "name_en": "millet groats",
+      "name_de": "Hirse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "płatki kukurydziane",
+      "name_en": "corn flakes",
+      "name_de": "Cornflakes",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "musli z suszonymi owocami",
+      "name_en": "muesli with dried fruit",
+      "name_de": "Müsli mit Trockenfrüchten",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "musli",
+      "name_en": "muesli",
+      "name_de": "Müsli",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ryż biały",
+      "name_en": "white rice",
+      "name_de": "weißer Reis",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ryż brązowy",
+      "name_en": "brown rice",
+      "name_de": "Naturreis",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka pszenna pełnoziarnista",
+      "name_en": "whole-wheat flour",
+      "name_de": "Vollkornweizenmehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka pszenna",
+      "name_en": "wheat flour",
+      "name_de": "Weizenmehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka kukurydziana",
+      "name_en": "corn flour",
+      "name_de": "Maismehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka gryczana",
+      "name_en": "buckwheat flour",
+      "name_de": "Buchweizenmehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka orkiszowa",
+      "name_en": "spelt flour",
+      "name_de": "Dinkelmehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka ryżowa",
+      "name_en": "rice flour",
+      "name_de": "Reismehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mąka bez glutenu",
+      "name_en": "gluten-free flour",
+      "name_de": "glutenfreies Mehl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tapioka",
+      "name_en": "tapioca",
+      "name_de": "Tapioka",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "skrobia ziemniaczana",
+      "name_en": "potato starch",
+      "name_de": "Kartoffelstärke",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cukinia",
+      "name_en": "zucchini",
+      "name_de": "Zucchini",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szparagi",
+      "name_en": "asparagus",
+      "name_de": "Spargel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "roszponka",
+      "name_en": "lamb's lettuce",
+      "name_de": "Feldsalat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szpinak",
+      "name_en": "spinach",
+      "name_de": "Spinat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szpinak baby świeży",
+      "name_en": "fresh baby spinach",
+      "name_de": "frischer Babyspinat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szpinak mrożony",
+      "name_en": "frozen spinach",
+      "name_de": "Tiefkühlspinat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kiełki rzodkiewki",
+      "name_en": "radish sprouts",
+      "name_de": "Radieschensprossen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chrzan",
+      "name_en": "horseradish",
+      "name_de": "Meerrettich",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pieczarka świeża",
+      "name_en": "fresh mushroom",
+      "name_de": "frischer Champignon",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "boczniaki",
+      "name_en": "oyster mushrooms",
+      "name_de": "Austernpilze",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "banan",
+      "name_en": "banana",
+      "name_de": "Banane",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "siemię lniane",
+      "name_en": "flaxseed",
+      "name_de": "Leinsamen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pestki dyni",
+      "name_en": "pumpkin seeds",
+      "name_de": "Kürbiskerne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "nasiona słonecznika",
+      "name_en": "sunflower seeds",
+      "name_de": "Sonnenblumenkerne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "nasiona chia",
+      "name_en": "chia seeds",
+      "name_de": "Chiasamen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "płatki migdałów",
+      "name_en": "almond flakes",
+      "name_de": "Mandelblättchen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "migdały",
+      "name_en": "almonds",
+      "name_de": "Mandeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "orzechy laskowe",
+      "name_en": "hazelnuts",
+      "name_de": "Haselnüsse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "orzeszki ziemne",
+      "name_en": "peanuts",
+      "name_de": "Erdnüsse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cukier",
+      "name_en": "sugar",
+      "name_de": "Zucker",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "drożdże suche",
+      "name_en": "dry yeast",
+      "name_de": "Trockenhefe",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kakao",
+      "name_en": "cocoa powder",
+      "name_de": "Kakaopulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "proszek do pieczenia",
+      "name_en": "baking powder",
+      "name_de": "Backpulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cynamon",
+      "name_en": "cinnamon",
+      "name_de": "Zimt",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sól",
+      "name_en": "salt",
+      "name_de": "Salz",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pieprz",
+      "name_en": "black pepper",
+      "name_de": "schwarzer Pfeffer",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "gałka muszkatołowa",
+      "name_en": "nutmeg",
+      "name_de": "Muskatnuss",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jagody goji",
+      "name_en": "goji berries",
+      "name_de": "Goji-Beeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomarańcza",
+      "name_en": "orange",
+      "name_de": "Orange",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cytryna",
+      "name_en": "lemon",
+      "name_de": "Zitrone",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sok cytrynowy",
+      "name_en": "lemon juice",
+      "name_de": "Zitronensaft",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "melon",
+      "name_en": "melon",
+      "name_de": "Melone",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "granat",
+      "name_en": "pomegranate",
+      "name_de": "Granatapfel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pomelo",
+      "name_en": "pomelo",
+      "name_de": "Pomelo",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mięta",
+      "name_en": "mint",
+      "name_de": "Minze",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kolendra, liście",
+      "name_en": "coriander leaves",
+      "name_de": "Korianderblätter",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szczypiorek",
+      "name_en": "chives",
+      "name_de": "Schnittlauch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pietruszka, liście",
+      "name_en": "parsley leaves",
+      "name_de": "Petersilie",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "koperek",
+      "name_en": "dill",
+      "name_de": "Dill",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kapary",
+      "name_en": "capers",
+      "name_de": "Kapern",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sałata",
+      "name_en": "lettuce",
+      "name_de": "Blattsalat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sałata lodowa",
+      "name_en": "iceberg lettuce",
+      "name_de": "Eisbergsalat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sałata karbowana",
+      "name_en": "frisée lettuce",
+      "name_de": "Friséesalat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sałata mix",
+      "name_en": "mixed lettuce",
+      "name_de": "Blattsalat-Mix",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "rukola",
+      "name_en": "arugula / rocket",
+      "name_de": "Rucola",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jarmuż",
+      "name_en": "kale",
+      "name_de": "Grünkohl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jarmuż mrożony",
+      "name_en": "frozen kale",
+      "name_de": "Tiefkühl-Grünkohl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "seler korzeniowy",
+      "name_en": "celeriac",
+      "name_de": "Knollensellerie",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "seler naciowy",
+      "name_en": "celery stalks",
+      "name_de": "Staudensellerie",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "por",
+      "name_en": "leek",
+      "name_de": "Lauch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "rzodkiewka",
+      "name_en": "radish",
+      "name_de": "Radieschen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kalarepa",
+      "name_en": "kohlrabi",
+      "name_de": "Kohlrabi",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ziemniaki",
+      "name_en": "potatoes",
+      "name_de": "Kartoffeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "marchew",
+      "name_en": "carrot",
+      "name_de": "Karotte",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "marchewka mini",
+      "name_en": "baby carrots",
+      "name_de": "Babykarotten",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "fasola szparagowa",
+      "name_en": "green beans",
+      "name_de": "grüne Bohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "fasola biała",
+      "name_en": "white beans",
+      "name_de": "weiße Bohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "fasola czerwona",
+      "name_en": "red beans",
+      "name_de": "rote Bohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "fasola mrożona",
+      "name_en": "frozen beans",
+      "name_de": "Tiefkühlbohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bób",
+      "name_en": "broad beans",
+      "name_de": "Saubohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ciecierzyca",
+      "name_en": "chickpeas",
+      "name_de": "Kichererbsen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ciecierzyca konserwowa",
+      "name_en": "canned chickpeas",
+      "name_de": "Kichererbsen aus der Dose",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "groszek zielony",
+      "name_en": "green peas",
+      "name_de": "grüne Erbsen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "soczewica",
+      "name_en": "lentils",
+      "name_de": "Linsen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "soczewica czerwona",
+      "name_en": "red lentils",
+      "name_de": "rote Linsen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "polenta",
+      "name_en": "polenta",
+      "name_de": "Polenta",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza kuskus",
+      "name_en": "couscous",
+      "name_de": "Couscous",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza pęczak",
+      "name_en": "pearl barley",
+      "name_de": "Perlgraupen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza jęczmienna",
+      "name_en": "barley groats",
+      "name_de": "Gerstengraupen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "komosa ryżowa",
+      "name_en": "quinoa",
+      "name_de": "Quinoa",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza gryczana",
+      "name_en": "buckwheat groats",
+      "name_de": "Buchweizen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron ryżowy",
+      "name_en": "rice noodles",
+      "name_de": "Reisnudeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron spaghetti",
+      "name_en": "spaghetti",
+      "name_de": "Spaghetti",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron penne",
+      "name_en": "penne",
+      "name_de": "Penne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron razowy penne",
+      "name_en": "whole-wheat penne",
+      "name_de": "Vollkorn-Penne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron spaghetti razowy",
+      "name_en": "whole-wheat spaghetti",
+      "name_de": "Vollkorn-Spaghetti",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron lasagne",
+      "name_en": "lasagne pasta",
+      "name_de": "Lasagne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron bez glutenu",
+      "name_en": "gluten-free pasta",
+      "name_de": "glutenfreie Pasta",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "penne bez glutenu",
+      "name_en": "gluten-free penne",
+      "name_de": "glutenfreie Penne",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron spaghetti bez glutenu",
+      "name_en": "gluten-free spaghetti",
+      "name_de": "glutenfreie Spaghetti",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cannelloni",
+      "name_en": "cannelloni",
+      "name_de": "Cannelloni",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tacos",
+      "name_en": "taco shells",
+      "name_de": "Taco-Schalen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "quesadilla trójkąty",
+      "name_en": "quesadilla triangles",
+      "name_de": "Quesadilla-Dreiecke",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "nachosy",
+      "name_en": "nachos",
+      "name_de": "Nachos",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szynka",
+      "name_en": "ham",
+      "name_de": "Schinken",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "szynka parmeńska",
+      "name_en": "Parma ham",
+      "name_de": "Parmaschinken",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "indyk",
+      "name_en": "turkey",
+      "name_de": "Pute",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "schab",
+      "name_en": "pork loin",
+      "name_de": "Schweinelende",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "polędwiczka wieprzowa",
+      "name_en": "pork tenderloin",
+      "name_de": "Schweinefilet",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wołowina",
+      "name_en": "beef",
+      "name_de": "Rindfleisch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wołowina mielona",
+      "name_en": "ground beef",
+      "name_de": "Rinderhackfleisch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pierś z kurczaka",
+      "name_en": "chicken breast",
+      "name_de": "Hähnchenbrust",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mięso z piersi kurczaka wędzone",
+      "name_en": "smoked chicken breast",
+      "name_de": "geräucherte Hähnchenbrust",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tofu naturalne",
+      "name_en": "natural tofu",
+      "name_de": "Naturtofu",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tofu wędzone",
+      "name_en": "smoked tofu",
+      "name_de": "Räuchertofu",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ser mozzarella light",
+      "name_en": "light mozzarella",
+      "name_de": "Light-Mozzarella",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ricotta",
+      "name_en": "ricotta cheese",
+      "name_de": "Ricotta",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mascarpone",
+      "name_en": "mascarpone",
+      "name_de": "Mascarpone",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mleko w proszku",
+      "name_en": "milk powder",
+      "name_de": "Milchpulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mleko sojowe",
+      "name_en": "soy milk",
+      "name_de": "Sojamilch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "śmietana",
+      "name_en": "sour cream",
+      "name_de": "Sauerrahm",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "śmietana sojowa",
+      "name_en": "soy cream",
+      "name_de": "Sojacreme",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mleko kokosowe",
+      "name_en": "coconut milk",
+      "name_de": "Kokosmilch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wiórki kokosowe",
+      "name_en": "desiccated coconut",
+      "name_de": "Kokosraspeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "herbatniki",
+      "name_en": "biscuits",
+      "name_de": "Butterkekse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "biszkopty",
+      "name_en": "sponge biscuits",
+      "name_de": "Löffelbiskuits",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "biszkopty bez glutenu",
+      "name_en": "gluten-free sponge biscuits",
+      "name_de": "glutenfreie Löffelbiskuits",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wafle ryżowe",
+      "name_en": "rice cakes",
+      "name_de": "Reiswaffeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "czekolada",
+      "name_en": "chocolate",
+      "name_de": "Schokolade",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "czekolada gorzka",
+      "name_en": "dark chocolate",
+      "name_de": "Zartbitterschokolade",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "czekolada dropsy",
+      "name_en": "chocolate drops",
+      "name_de": "Schokodrops",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "dżem pomarańczowy",
+      "name_en": "orange jam",
+      "name_de": "Orangenmarmelade",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "żurawina",
+      "name_en": "cranberries",
+      "name_de": "Cranberrys",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "żurawina suszona",
+      "name_en": "dried cranberries",
+      "name_de": "getrocknete Cranberries",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "śliwki mrożone",
+      "name_en": "frozen plums",
+      "name_de": "gefrorene Pflaumen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "śliwki suszone",
+      "name_en": "dried plums",
+      "name_de": "getrocknete Pflaumen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wiśnie mrożone",
+      "name_en": "frozen cherries",
+      "name_de": "gefrorene Kirschen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "daktyle suszone",
+      "name_en": "dried dates",
+      "name_de": "getrocknete Datteln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "słodzik",
+      "name_en": "sweetener",
+      "name_de": "Süßstoff",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wanilia",
+      "name_en": "vanilla",
+      "name_de": "Vanille",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "budyń waniliowy",
+      "name_en": "vanilla pudding powder",
+      "name_de": "Vanillepuddingpulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "amaretto",
+      "name_en": "amaretto",
+      "name_de": "Amaretto",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kawa",
+      "name_en": "coffee",
+      "name_de": "Kaffee",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "woda",
+      "name_en": "water",
+      "name_de": "Wasser",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ocet",
+      "name_en": "vinegar",
+      "name_de": "Essig",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ocet balsamiczny",
+      "name_en": "balsamic vinegar",
+      "name_de": "Balsamico-Essig",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sos sojowy",
+      "name_en": "soy sauce",
+      "name_de": "Sojasauce",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ajwar",
+      "name_en": "ajvar",
+      "name_de": "Ajvar",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mieszanka WOK",
+      "name_en": "WOK vegetable mix",
+      "name_de": "WOK-Gemüsemischung",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mieszanka meksykańska",
+      "name_en": "Mexican vegetable mix",
+      "name_de": "mexikanische Gemüsemischung",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mieszanka sombrero",
+      "name_en": "Sombrero vegetable mix",
+      "name_de": "Gemüsemischung Sombrero",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "zielony barwnik",
+      "name_en": "green food colouring",
+      "name_de": "grüne Lebensmittelfarbe",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "nuggetsy",
+      "name_en": "chicken nuggets",
+      "name_de": "Chicken Nuggets",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ogórek świeży",
+      "name_en": "fresh cucumber",
+      "name_de": "frische Gurke",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bazylia",
+      "name_en": "basil",
+      "name_de": "Basilikum",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "majonez",
+      "name_en": "mayonnaise",
+      "name_de": "Mayonnaise",
+      "type": "simple"
+    }
+  ],
+  "components": [
+    {
+      "canonical_name_pl": "omlet z jaj",
+      "name_en": "homemade egg omelet",
+      "name_de": "selbstgemachtes Omelett",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "omlet jajeczny z mąką GF",
+      "name_en": "egg omelet with GF flour",
+      "name_de": "Eieromelett mit glutenfreiem Mehl",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "omlet GF",
+      "name_en": "GF omelet",
+      "name_de": "glutenfreies Omelett",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip z suszonych pomidorów",
+      "name_en": "sun-dried tomato dip",
+      "name_de": "Dip aus getrockneten Tomaten",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "mus",
+      "name_en": "fruit purée component",
+      "name_de": "Fruchtmus-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "zapiekana kasza jaglana",
+      "name_en": "baked millet component",
+      "name_de": "gebackene Hirse-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "duszony jarmuż",
+      "name_en": "stewed kale component",
+      "name_de": "gedünsteter Grünkohl",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "salsa",
+      "name_en": "salsa component",
+      "name_de": "Salsa-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "chleb z jajkiem",
+      "name_en": "egg bread component",
+      "name_de": "Brot mit Ei",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "jaglanka",
+      "name_en": "millet porridge component",
+      "name_de": "Hirsebrei",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "serek z oliwkami",
+      "name_en": "olive quark component",
+      "name_de": "Quark mit Oliven",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip szczypiorkowy",
+      "name_en": "chive dip",
+      "name_de": "Schnittlauch-Dip",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "gzik",
+      "name_en": "gzik quark component",
+      "name_de": "Gzik-Quark-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "belriso",
+      "name_en": "Belriso component",
+      "name_de": "Belriso-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip koperkowy",
+      "name_en": "dill dip",
+      "name_de": "Dill-Dip",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip curry",
+      "name_en": "curry dip",
+      "name_de": "Curry-Dip",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "koktajl LF",
+      "name_en": "LF smoothie",
+      "name_de": "LF-Smoothie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos kokosowy",
+      "name_en": "coconut sauce",
+      "name_de": "Kokossauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pina colada (koktajl)",
+      "name_en": "piña colada smoothie",
+      "name_de": "Piña-Colada-Smoothie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pesto z rukoli",
+      "name_en": "rocket pesto",
+      "name_de": "Rucola-Pesto",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pesto",
+      "name_en": "pesto",
+      "name_de": "Pesto",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "słodko-ostra salsa",
+      "name_en": "sweet-hot salsa",
+      "name_de": "süß-scharfe Salsa",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "chilli con carne",
+      "name_en": "chilli con carne",
+      "name_de": "Chili con Carne",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "marchew z groszkiem",
+      "name_en": "carrots and peas",
+      "name_de": "Möhren mit Erbsen",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos tymiankowy",
+      "name_en": "thyme sauce",
+      "name_de": "Thymiansauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "surówka skosztuj zdrowia",
+      "name_en": "Skosztuj Zdrowia salad",
+      "name_de": "Salat-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos słodko-kwaśny",
+      "name_en": "sweet and sour sauce",
+      "name_de": "Süß-Sauer-Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sałatka szwedzka",
+      "name_en": "Swedish salad",
+      "name_de": "Schwedischer Salat",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "surówka z rzepy",
+      "name_en": "turnip slaw",
+      "name_de": "Rübensalat",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sałatka z buraczków",
+      "name_en": "beetroot salad",
+      "name_de": "Rote-Bete-Salat",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "surówka po chińsku",
+      "name_en": "Chinese slaw",
+      "name_de": "Chinesischer Krautsalat",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "brokuły z czosnkiem i cebulą",
+      "name_en": "broccoli with garlic and onion",
+      "name_de": "Brokkoli mit Knoblauch und Zwiebeln",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos koperkowy",
+      "name_en": "dill sauce",
+      "name_de": "Dillsauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos paprykowy",
+      "name_en": "pepper sauce",
+      "name_de": "Paprikasauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos",
+      "name_en": "sauce component",
+      "name_de": "Saucen-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos słodko-ostry",
+      "name_en": "sweet and spicy sauce",
+      "name_de": "süß-scharfe Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "tarta ze szparagami",
+      "name_en": "asparagus tart",
+      "name_de": "Spargeltarte",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "kasza z awokado i ziołami",
+      "name_en": "couscous with avocado and herbs",
+      "name_de": "Couscous mit Avocado und Kräutern",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "relisz",
+      "name_en": "relish",
+      "name_de": "Relish",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pasta paprykowo-warzywna",
+      "name_en": "pepper-vegetable spread",
+      "name_de": "Paprika-Gemüse-Aufstrich",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "tajski sos",
+      "name_en": "Thai sauce",
+      "name_de": "Thai-Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "kokosowy kurczak",
+      "name_en": "coconut chicken",
+      "name_de": "Kokos-Hähnchen",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "tarta porowa z kurczakiem",
+      "name_en": "leek chicken tart",
+      "name_de": "Lauch-Hähnchen-Tarte",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "gulasz",
+      "name_en": "stew component",
+      "name_de": "Eintopf-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "zupa gulaszowa",
+      "name_en": "goulash soup component",
+      "name_de": "Gulaschsuppe-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pesto bazyliowe",
+      "name_en": "basil pesto",
+      "name_de": "Basilikumpesto",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos carbonara",
+      "name_en": "carbonara sauce",
+      "name_de": "Carbonara-Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "tapenada",
+      "name_en": "tapenade",
+      "name_de": "Tapenade",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip pomidorowy",
+      "name_en": "tomato dip",
+      "name_de": "Tomaten-Dip",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos arabiatta",
+      "name_en": "arrabbiata sauce",
+      "name_de": "Arrabbiata-Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "winegret",
+      "name_en": "vinaigrette",
+      "name_de": "Vinaigrette",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "mietowy winegret",
+      "name_en": "mint vinaigrette",
+      "name_de": "Minz-Vinaigrette",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pizza ze szpinakiem",
+      "name_en": "spinach pizza component",
+      "name_de": "Spinatpizza-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "zapiekanka ryżowa",
+      "name_en": "rice bake component",
+      "name_de": "Reisauflauf-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "zapiekanka po grecku",
+      "name_en": "Greek-style casserole component",
+      "name_de": "Griechischer Auflauf",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "minestrone",
+      "name_en": "minestrone component",
+      "name_de": "Minestrone-Komponente",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "dip czosnkowy",
+      "name_en": "garlic dip",
+      "name_de": "Knoblauch-Dip",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "chutney mango",
+      "name_en": "mango chutney",
+      "name_de": "Mango-Chutney",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos czosnkowy",
+      "name_en": "garlic sauce",
+      "name_de": "Knoblauchsauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "guacamole",
+      "name_en": "guacamole",
+      "name_de": "Guacamole",
+      "type": "component"
+    }
+  ],
+  "aliases": {
+    "mleko": [
+      "mleko ",
+      "mleko spożywcze",
+      "mleko spożywczy",
+      "mleko zwykłe",
+      "mleko świeże",
+      "mleko LF"
+    ],
+    "jajka": [
+      "jaja",
+      "jajko",
+      "jaja kurze",
+      "jaja kurze całe"
+    ],
+    "waniliowy serek homogenizowany": [
+      "impresja waniliowa",
+      "serek homogenizowany impresja",
+      "serek impresja",
+      "serek waniliowy"
+    ],
+    "ser feta": [
+      "ser typu feta",
+      "ser typu feta (mlekovita)"
+    ],
+    "mini kulki mozzarelli": [
+      "mozzarella mini",
+      "mozzarella kulka mini"
+    ],
+    "twaróg": [
+      "twarożek",
+      "ser biały",
+      "ser włoszczowa",
+      "ser piekarniczy",
+      "ser twarogowy"
+    ],
+    "twaróg chudy": [
+      "ser twarogowy chudy",
+      "serek twarogowy chudy",
+      "serek twarogowy chudy LF"
+    ],
+    "tortilla pełnoziarnista": [
+      "tortilla pszenna pełnoziarnista"
+    ],
+    "owoce leśne": [
+      "mieszanka leśna"
+    ],
+    "pomidor": [
+      "pomidory"
+    ],
+    "pomidor koktajlowy": [
+      "pomidorek koktajlowy",
+      "pomidorki koktajlowe",
+      "pomidor koktajlowy do ozdoby"
+    ],
+    "pomidor pelati": [
+      "pomidory pelati",
+      "pomidory pelatio"
+    ],
+    "pomidory z puszki": [
+      "pomidory puszka",
+      "pomidor puszka",
+      "pomidor kostka puszka"
+    ],
+    "koncentrat pomidorowy": [
+      "przecier pomidorowy"
+    ],
+    "papryka chilli": [
+      "chiwlli",
+      "chilli"
+    ],
+    "cebula": [
+      "cebula biała"
+    ],
+    "oliwa z oliwek": [
+      "oliwa",
+      "oliw a zoliwek",
+      "oliwa  zoliwek"
+    ],
+    "olej kokosowy": [
+      "olej kokosowe",
+      "tłuszcz kokosowy"
+    ],
+    "masło": [
+      "masło śmietankowe"
+    ],
+    "ogórek świeży": [
+      "ogórek",
+      "ogórek zielony"
+    ],
+    "szpinak baby świeży": [
+      "szpinak baby świezy"
+    ],
+    "pierś z kurczaka": [
+      "kurczak, filet",
+      "mięso z piersi kurczaka",
+      "mięso z kurczaka"
+    ],
+    "indyk": [
+      "mięso z piersi indyka"
+    ],
+    "schab": [
+      "wieprzowina, schab"
+    ],
+    "nasiona słonecznika": [
+      "słonecznik",
+      "słonecznik nasiona"
+    ],
+    "pietruszka, liście": [
+      "pietruszka liście",
+      "pietruszka"
+    ],
+    "koperek": [
+      "koper ogrodowy",
+      "koper do ozdoby"
+    ],
+    "bazylia": [
+      "bazylia świeża"
+    ],
+    "tacos": [
+      "tocos",
+      "tacos schell",
+      "tacos chell"
+    ],
+    "cannelloni": [
+      "canneloni"
+    ],
+    "makaron razowy penne": [
+      "penne razowe"
+    ],
+    "makaron spaghetti bez glutenu": [
+      "spaghetti Gf"
+    ],
+    "makaron bez glutenu": [
+      "makaron GF"
+    ],
+    "kukurydza z puszki": [
+      "kukurydza",
+      "kukurydza puszka",
+      "kukurydza konserwowa"
+    ],
+    "kukurydza mrożona": [
+      "kukurydza mróz"
+    ],
+    "marchew": [
+      "marchew surowa"
+    ],
+    "drożdże suche": [
+      "drożdze",
+      "drożdże"
+    ],
+    "cukinia": [
+      "cukinia mrożona duo"
+    ],
+    "majonez": [
+      "majonez Winiary",
+      "majonez winiary"
+    ],
+    "tofu naturalne": [
+      "tofu"
+    ],
+    "cytryna": [
+      "cyryna",
+      "cytyra"
+    ]
+  },
+  "rules": [
+    "One global Ingredient Master for all meal categories.",
+    "Do not create a second ingredient database in Calyra, Lovable or Supabase.",
+    "Do not invent or silently rename canonical ingredients.",
+    "Aliases map source strings to approved canonical identities.",
+    "Components are prepared recipe elements and are separate from simple ingredients.",
+    "LF means lactose-free and is a variant/product attribute, not a separate master.",
+    "GF is separate only where explicitly approved as a product identity.",
+    "WEGE substitutions remain recipe-level variant/substitution logic.",
+    "Do not assign quantities, units, calories, nutrition, allergens or IDs at this identity stage.",
+    "koncentrat pomidorowy is canonical for earlier przecier pomidorowy occurrences.",
+    "Ambiguous generic items must not be forced into a master without context."
+  ]
+}
