@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.1",
   "status": "approved",
   "source_pdf": "Calyra_Ingredient_Master_v2_Final.pdf",
   "ingredients": [
@@ -1286,6 +1286,150 @@
       "name_en": "mayonnaise",
       "name_de": "Mayonnaise",
       "type": "simple"
+    },
+    {
+      "canonical_name_pl": "serek kanapkowy z oliwkami",
+      "name_en": "olive spread cheese",
+      "name_de": "Oliven-Frischkäse",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "aromat waniliowy",
+      "name_en": "vanilla flavouring",
+      "name_de": "Vanillearoma",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "aromat migdałowy",
+      "name_en": "almond flavouring",
+      "name_de": "Mandelaroma",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "chlorella",
+      "name_en": "chlorella",
+      "name_de": "Chlorella",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "morele suszone",
+      "name_en": "dried apricots",
+      "name_de": "getrocknete Aprikosen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "budyń czekoladowy",
+      "name_en": "chocolate pudding powder",
+      "name_de": "Schokoladenpuddingpulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wiśnia kostka",
+      "name_en": "diced sour cherries",
+      "name_de": "gewürfelte Sauerkirschen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mandarynka",
+      "name_en": "mandarin",
+      "name_de": "Mandarine",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ananas z puszki",
+      "name_en": "canned pineapple",
+      "name_de": "Ananas aus der Dose",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bułka grahamka",
+      "name_en": "graham roll",
+      "name_de": "Grahambrötchen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "bułka gryczana",
+      "name_en": "buckwheat roll",
+      "name_de": "Buchweizenbrötchen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka czerwona/mix mrożona",
+      "name_en": "frozen red pepper mix",
+      "name_de": "gefrorene rote Paprika-Mischung",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "brokuły mrożone",
+      "name_en": "frozen broccoli",
+      "name_de": "Tiefkühlbrokkoli",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "buraczki ćwikła",
+      "name_en": "beetroot salad",
+      "name_de": "Rote-Bete-Salat",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "dorsz świeży",
+      "name_en": "fresh cod",
+      "name_de": "frischer Kabeljau",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "brokuły",
+      "name_en": "broccoli",
+      "name_de": "Brokkoli",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kasza bulgur",
+      "name_en": "bulgur",
+      "name_de": "Bulgur",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "modra kapusta",
+      "name_en": "red cabbage",
+      "name_de": "Rotkohl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wino białe",
+      "name_en": "white wine",
+      "name_de": "Weißwein",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ananas z zalewą",
+      "name_en": "pineapple in juice",
+      "name_de": "Ananas im eigenen Saft",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "tuńczyk",
+      "name_en": "tuna",
+      "name_de": "Thunfisch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sok pomarańczowy",
+      "name_en": "orange juice",
+      "name_de": "Orangensaft",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "wino czerwone",
+      "name_en": "red wine",
+      "name_de": "Rotwein",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "amarantus ekspandowany",
+      "name_en": "puffed amaranth",
+      "name_de": "gepuffter Amaranth",
+      "type": "simple"
     }
   ],
   "components": [
@@ -1347,12 +1491,6 @@
       "canonical_name_pl": "jaglanka",
       "name_en": "millet porridge component",
       "name_de": "Hirsebrei",
-      "type": "component"
-    },
-    {
-      "canonical_name_pl": "serek z oliwkami",
-      "name_en": "olive quark component",
-      "name_de": "Quark mit Oliven",
       "type": "component"
     },
     {
@@ -1648,6 +1786,222 @@
       "name_en": "guacamole",
       "name_de": "Guacamole",
       "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos orzechowy",
+      "name_en": "nut sauce",
+      "name_de": "Nusssauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "sos miodowo-cytrynowy",
+      "name_en": "honey-lemon sauce",
+      "name_de": "Honig-Zitronen-Sauce",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "zapiekanka",
+      "name_en": "casserole",
+      "name_de": "Auflauf",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "duszone warzywa",
+      "name_en": "stewed vegetables",
+      "name_de": "gedünstetes Gemüse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "kuskus z awokado i ziołami",
+      "name_en": "couscous with avocado and herbs",
+      "name_de": "Couscous mit Avocado und Kräutern",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "kasza bulgur z warzywami, szczypiorkiem i pietruszką",
+      "name_en": "bulgur with vegetables, chives and parsley",
+      "name_de": "Bulgur mit Gemüse, Schnittlauch und Petersilie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "komosa z warzywami, szczypiorkiem i pietruszką",
+      "name_en": "quinoa with vegetables, chives and parsley",
+      "name_de": "Quinoa mit Gemüse, Schnittlauch und Petersilie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "kokosanki",
+      "name_en": "coconut macaroons",
+      "name_de": "Kokosmakronen",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "koktajl",
+      "name_en": "smoothie",
+      "name_de": "Smoothie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "smoothie",
+      "name_en": "smoothie",
+      "name_de": "Smoothie",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "pudding",
+      "name_en": "pudding",
+      "name_de": "Pudding",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "panna cotta",
+      "name_en": "panna cotta",
+      "name_de": "Panna Cotta",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "crumble",
+      "name_en": "crumble",
+      "name_de": "Crumble",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "masa budyniowa",
+      "name_en": "pudding filling",
+      "name_de": "Puddingmasse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "masa serowa",
+      "name_en": "cheese filling",
+      "name_de": "Käsemasse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "masa sernikowa",
+      "name_en": "cheesecake filling",
+      "name_de": "Käsekuchenmasse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "masa kokosowa",
+      "name_en": "coconut filling",
+      "name_de": "Kokosmasse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "masa czekoladowa",
+      "name_en": "chocolate filling",
+      "name_de": "Schokoladenmasse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "mus malinowy",
+      "name_en": "raspberry purée",
+      "name_de": "Himbeermus",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "mus truskawkowy",
+      "name_en": "strawberry purée",
+      "name_de": "Erdbeermus",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "krem Raffaello",
+      "name_en": "Raffaello cream",
+      "name_de": "Raffaello-Creme",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "tiramisu truskawkowe",
+      "name_en": "strawberry tiramisu",
+      "name_de": "Erdbeer-Tiramisu",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "ananas z kokosem",
+      "name_en": "pineapple with coconut",
+      "name_de": "Ananas mit Kokos",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "bounty",
+      "name_en": "Bounty",
+      "name_de": "Bounty",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "lion",
+      "name_en": "Lion",
+      "name_de": "Lion",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "princessa",
+      "name_en": "Princessa",
+      "name_de": "Princessa",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "Fit lion",
+      "name_en": "Fit Lion",
+      "name_de": "Fit Lion",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "Fit Snickers",
+      "name_en": "Fit Snickers",
+      "name_de": "Fit Snickers",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "Baton Kinder Country Fit",
+      "name_en": "Kinder Country Fit bar",
+      "name_de": "Kinder-Country-Fit-Riegel",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "chlebek bananowy",
+      "name_en": "banana bread",
+      "name_de": "Bananenbrot",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "chlebek",
+      "name_en": "bread",
+      "name_de": "Brot",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "ciasto marchewkowe",
+      "name_en": "carrot cake",
+      "name_de": "Karottenkuchen",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "czekoladowe ciasto",
+      "name_en": "chocolate cake",
+      "name_de": "Schokoladenkuchen",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "ciasteczka czekoladowe",
+      "name_en": "chocolate cookies",
+      "name_de": "Schokoladenkekse",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "trufle",
+      "name_en": "truffles",
+      "name_de": "Schokoladentrüffel",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "muffinki",
+      "name_en": "muffins",
+      "name_de": "Muffins",
+      "type": "component"
     }
   ],
   "aliases": {
@@ -1684,7 +2038,9 @@
       "ser biały",
       "ser włoszczowa",
       "ser piekarniczy",
-      "ser twarogowy"
+      "ser twarogowy",
+      "serek piekarniczy",
+      "serek LF"
     ],
     "twaróg chudy": [
       "ser twarogowy chudy",
@@ -1746,7 +2102,8 @@
     "pierś z kurczaka": [
       "kurczak, filet",
       "mięso z piersi kurczaka",
-      "mięso z kurczaka"
+      "mięso z kurczaka",
+      "kurczak"
     ],
     "indyk": [
       "mięso z piersi indyka"
@@ -1781,7 +2138,8 @@
       "penne razowe"
     ],
     "makaron spaghetti bez glutenu": [
-      "spaghetti Gf"
+      "spaghetti Gf",
+      "makaron spaghetti GF"
     ],
     "makaron bez glutenu": [
       "makaron GF"
@@ -1814,6 +2172,61 @@
     "cytryna": [
       "cyryna",
       "cytyra"
+    ],
+    "serek kanapkowy z oliwkami": [
+      "serek z oliwkami"
+    ],
+    "ricotta": [
+      "ser ricotta"
+    ],
+    "jogurt naturalny": [
+      "jogurt naturalny LF"
+    ],
+    "mąka bez glutenu": [
+      "mąka GF",
+      "mąka GLF"
+    ],
+    "chleb bez glutenu": [
+      "chleb GF"
+    ],
+    "penne bez glutenu": [
+      "penne GF",
+      "makaron penne GF"
+    ],
+    "ananas z puszki": [
+      "ananas",
+      "ananas puszka"
+    ],
+    "groszek zielony": [
+      "groszke zielony"
+    ],
+    "wiśnie mrożone": [
+      "wiśnie mróz"
+    ],
+    "truskawki mrożone": [
+      "truskawki mrożóne"
+    ],
+    "budyń czekoladowy": [
+      "bydyń czekoladowy"
+    ],
+    "mleko kokosowe": [
+      "mleko kokoswe"
+    ],
+    "płatki migdałów": [
+      "migdały płatki"
+    ],
+    "daktyle suszone": [
+      "daktyle"
+    ],
+    "orzeszki ziemne": [
+      "orzechy ziemne"
+    ],
+    "polędwica sopocka": [
+      "polędwica kostka"
+    ],
+    "amarantus ekspandowany": [
+      "amarantus ekpand.",
+      "ekspandowany amarantus"
     ]
   },
   "rules": [
@@ -1827,6 +2240,10 @@
     "WEGE substitutions remain recipe-level variant/substitution logic.",
     "Do not assign quantities, units, calories, nutrition, allergens or IDs at this identity stage.",
     "koncentrat pomidorowy is canonical for earlier przecier pomidorowy occurrences.",
-    "Ambiguous generic items must not be forced into a master without context."
+    "Ambiguous generic items must not be forced into a master without context.",
+    "tłuszcz kokosowy maps to olej kokosowy and is not a separate canonical identity.",
+    "serek kanapkowy z oliwkami is a simple ready-made spread cheese; serek z oliwkami is an alias, not a component.",
+    "polędwica sopocka is canonical; polędwica kostka maps to it.",
+    "buraczki ćwikła is the approved Polish canonical simple name and is separate from the component sałatka z buraczków."
   ]
 }

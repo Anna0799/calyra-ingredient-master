@@ -213,6 +213,30 @@ nuggetsy,chicken nuggets,Chicken Nuggets,simple
 ogórek świeży,fresh cucumber,frische Gurke,simple
 bazylia,basil,Basilikum,simple
 majonez,mayonnaise,Mayonnaise,simple
+serek kanapkowy z oliwkami,olive spread cheese,Oliven-Frischkäse,simple
+aromat waniliowy,vanilla flavouring,Vanillearoma,simple
+aromat migdałowy,almond flavouring,Mandelaroma,simple
+chlorella,chlorella,Chlorella,simple
+morele suszone,dried apricots,getrocknete Aprikosen,simple
+budyń czekoladowy,chocolate pudding powder,Schokoladenpuddingpulver,simple
+wiśnia kostka,diced sour cherries,gewürfelte Sauerkirschen,simple
+mandarynka,mandarin,Mandarine,simple
+ananas z puszki,canned pineapple,Ananas aus der Dose,simple
+bułka grahamka,graham roll,Grahambrötchen,simple
+bułka gryczana,buckwheat roll,Buchweizenbrötchen,simple
+papryka czerwona/mix mrożona,frozen red pepper mix,gefrorene rote Paprika-Mischung,simple
+brokuły mrożone,frozen broccoli,Tiefkühlbrokkoli,simple
+buraczki ćwikła,beetroot salad,Rote-Bete-Salat,simple
+dorsz świeży,fresh cod,frischer Kabeljau,simple
+brokuły,broccoli,Brokkoli,simple
+kasza bulgur,bulgur,Bulgur,simple
+modra kapusta,red cabbage,Rotkohl,simple
+wino białe,white wine,Weißwein,simple
+ananas z zalewą,pineapple in juice,Ananas im eigenen Saft,simple
+tuńczyk,tuna,Thunfisch,simple
+sok pomarańczowy,orange juice,Orangensaft,simple
+wino czerwone,red wine,Rotwein,simple
+amarantus ekspandowany,puffed amaranth,gepuffter Amaranth,simple
 omlet z jaj,homemade egg omelet,selbstgemachtes Omelett,component
 omlet jajeczny z mąką GF,egg omelet with GF flour,Eieromelett mit glutenfreiem Mehl,component
 omlet GF,GF omelet,glutenfreies Omelett,component
@@ -223,7 +247,6 @@ duszony jarmuż,stewed kale component,gedünsteter Grünkohl,component
 salsa,salsa component,Salsa-Komponente,component
 chleb z jajkiem,egg bread component,Brot mit Ei,component
 jaglanka,millet porridge component,Hirsebrei,component
-serek z oliwkami,olive quark component,Quark mit Oliven,component
 dip szczypiorkowy,chive dip,Schnittlauch-Dip,component
 gzik,gzik quark component,Gzik-Quark-Komponente,component
 belriso,Belriso component,Belriso-Komponente,component
@@ -273,3 +296,39 @@ dip czosnkowy,garlic dip,Knoblauch-Dip,component
 chutney mango,mango chutney,Mango-Chutney,component
 sos czosnkowy,garlic sauce,Knoblauchsauce,component
 guacamole,guacamole,Guacamole,component
+sos orzechowy,nut sauce,Nusssauce,component
+sos miodowo-cytrynowy,honey-lemon sauce,Honig-Zitronen-Sauce,component
+zapiekanka,casserole,Auflauf,component
+duszone warzywa,stewed vegetables,gedünstetes Gemüse,component
+kuskus z awokado i ziołami,couscous with avocado and herbs,Couscous mit Avocado und Kräutern,component
+"kasza bulgur z warzywami, szczypiorkiem i pietruszką","bulgur with vegetables, chives and parsley","Bulgur mit Gemüse, Schnittlauch und Petersilie",component
+"komosa z warzywami, szczypiorkiem i pietruszką","quinoa with vegetables, chives and parsley","Quinoa mit Gemüse, Schnittlauch und Petersilie",component
+kokosanki,coconut macaroons,Kokosmakronen,component
+koktajl,smoothie,Smoothie,component
+smoothie,smoothie,Smoothie,component
+pudding,pudding,Pudding,component
+panna cotta,panna cotta,Panna Cotta,component
+crumble,crumble,Crumble,component
+masa budyniowa,pudding filling,Puddingmasse,component
+masa serowa,cheese filling,Käsemasse,component
+masa sernikowa,cheesecake filling,Käsekuchenmasse,component
+masa kokosowa,coconut filling,Kokosmasse,component
+masa czekoladowa,chocolate filling,Schokoladenmasse,component
+mus malinowy,raspberry purée,Himbeermus,component
+mus truskawkowy,strawberry purée,Erdbeermus,component
+krem Raffaello,Raffaello cream,Raffaello-Creme,component
+tiramisu truskawkowe,strawberry tiramisu,Erdbeer-Tiramisu,component
+ananas z kokosem,pineapple with coconut,Ananas mit Kokos,component
+bounty,Bounty,Bounty,component
+lion,Lion,Lion,component
+princessa,Princessa,Princessa,component
+Fit lion,Fit Lion,Fit Lion,component
+Fit Snickers,Fit Snickers,Fit Snickers,component
+Baton Kinder Country Fit,Kinder Country Fit bar,Kinder-Country-Fit-Riegel,component
+chlebek bananowy,banana bread,Bananenbrot,component
+chlebek,bread,Brot,component
+ciasto marchewkowe,carrot cake,Karottenkuchen,component
+czekoladowe ciasto,chocolate cake,Schokoladenkuchen,component
+ciasteczka czekoladowe,chocolate cookies,Schokoladenkekse,component
+trufle,truffles,Schokoladentrüffel,component
+muffinki,muffins,Muffins,component
