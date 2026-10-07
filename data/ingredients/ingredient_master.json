@@ -1430,6 +1430,174 @@
       "name_en": "puffed amaranth",
       "name_de": "gepuffter Amaranth",
       "type": "simple"
+    },
+    {
+      "canonical_name_pl": "udo z kurczaka",
+      "name_en": "chicken thigh",
+      "name_de": "Hähnchenkeule",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "jogurt grecki",
+      "name_en": "Greek yogurt",
+      "name_de": "griechischer Joghurt",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "ryż jaśminowy",
+      "name_en": "jasmine rice",
+      "name_de": "Jasminreis",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "cebula dymka",
+      "name_en": "spring onion",
+      "name_de": "Frühlingszwiebel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "indyk mielony",
+      "name_en": "ground turkey",
+      "name_de": "Putenhackfleisch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pasta curry zielona",
+      "name_en": "green curry paste",
+      "name_de": "grüne Currypaste",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "masło orzechowe",
+      "name_en": "peanut butter",
+      "name_de": "Erdnussbutter",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pasta miso biała",
+      "name_en": "white miso paste",
+      "name_de": "weiße Misopaste",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "mleko owsiane",
+      "name_en": "oat milk",
+      "name_de": "Hafermilch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "fasola czarna",
+      "name_en": "black beans",
+      "name_de": "schwarze Bohnen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "borówki",
+      "name_en": "blueberries",
+      "name_de": "Heidelbeeren",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "płatki chilli",
+      "name_en": "chilli flakes",
+      "name_de": "Chiliflocken",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron jajeczny",
+      "name_en": "egg noodles",
+      "name_de": "Eiernudeln",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "garam masala",
+      "name_en": "garam masala",
+      "name_de": "Garam Masala",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "czosnek",
+      "name_en": "garlic",
+      "name_de": "Knoblauch",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "imbir",
+      "name_en": "ginger",
+      "name_de": "Ingwer",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "kumin mielony",
+      "name_en": "ground cumin",
+      "name_de": "gemahlener Kreuzkümmel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "halloumi",
+      "name_en": "halloumi",
+      "name_de": "Halloumi",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "krewetki królewskie",
+      "name_en": "king prawns",
+      "name_de": "Königsgarnelen",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron linguine",
+      "name_en": "linguine",
+      "name_de": "Linguine",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "makaron pappardelle",
+      "name_en": "pappardelle",
+      "name_de": "Pappardelle",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "parmezan",
+      "name_en": "Parmesan",
+      "name_de": "Parmesan",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "filet z łososia",
+      "name_en": "salmon fillet",
+      "name_de": "Lachsfilet",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "olej sezamowy",
+      "name_en": "sesame oil",
+      "name_de": "Sesamöl",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "sezam",
+      "name_en": "sesame seeds",
+      "name_de": "Sesam",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "papryka wędzona",
+      "name_en": "smoked paprika",
+      "name_de": "geräuchertes Paprikapulver",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "batat",
+      "name_en": "sweet potato",
+      "name_de": "Süßkartoffel",
+      "type": "simple"
+    },
+    {
+      "canonical_name_pl": "pita pełnoziarnista",
+      "name_en": "wholemeal pita",
+      "name_de": "Vollkornpita",
+      "type": "simple"
     }
   ],
   "components": [
@@ -2001,6 +2169,12 @@
       "canonical_name_pl": "muffinki",
       "name_en": "muffins",
       "name_de": "Muffins",
+      "type": "component"
+    },
+    {
+      "canonical_name_pl": "hummus",
+      "name_en": "hummus",
+      "name_de": "Hummus",
       "type": "component"
     }
   ],
