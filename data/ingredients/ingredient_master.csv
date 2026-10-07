@@ -1,334 +1,334 @@
-canonical_name_pl,name_en,name_de,type
-mleko,milk,Milch,simple
-jajka,eggs,Eier,simple
-waniliowy serek homogenizowany,vanilla quark,Vanillequark,simple
-miód,honey,Honig,simple
-ser feta,feta cheese,Fetakäse,simple
-ser mozzarella,mozzarella cheese,Mozzarella,simple
-ser mozzarella wiórki,shredded mozzarella cheese,geriebener Mozzarella,simple
-mini kulki mozzarelli,mini mozzarella balls,Mini-Mozzarellakugeln,simple
-twaróg,quark,Quark,simple
-twaróg chudy,low-fat quark,Magerquark,simple
-serek homogenizowany,quark,Quark,simple
-tortilla pełnoziarnista,whole-wheat tortilla,Vollkorn-Tortilla,simple
-tortilla bez glutenu,gluten-free tortilla,glutenfreie Tortilla,simple
-owoce leśne,mixed berries,Waldfrüchte,simple
-pomidor,tomato,Tomate,simple
-pomidor koktajlowy,cherry tomato,Kirschtomate,simple
-pomidor pelati,pelati tomatoes,Pelati-Tomaten,simple
-pomidory z puszki,canned tomatoes,Dosentomaten,simple
-suszone pomidory,sun-dried tomatoes,getrocknete Tomaten,simple
-koncentrat pomidorowy,tomato paste,Tomatenmark,simple
-papryka,bell pepper,Paprika,simple
-papryka czerwona,red bell pepper,rote Paprika,simple
-papryka zielona,green bell pepper,grüne Paprika,simple
-papryka żółta,yellow bell pepper,gelbe Paprika,simple
-papryka chilli,chilli pepper,Chilischote,simple
-papryka jalapeño,jalapeño pepper,Jalapeño,simple
-truskawki,strawberries,Erdbeeren,simple
-truskawki mrożone,frozen strawberries,gefrorene Erdbeeren,simple
-maliny,raspberries,Himbeeren,simple
-maliny mrożone,frozen raspberries,gefrorene Himbeeren,simple
-brzoskwinia mrożona,frozen peach,gefrorener Pfirsich,simple
-brzoskwinia z puszki,canned peach,Pfirsich aus der Dose,simple
-jabłko prażone,stewed apple,gedünsteter Apfel,simple
-jabłko pieczone,baked apple,gebackener Apfel,simple
-jabłko,apple,Apfel,simple
-mango z puszki,canned mango,Mango aus der Dose,simple
-mango,fresh mango,frische Mango,simple
-kukurydza z puszki,canned corn,Mais aus der Dose,simple
-kukurydza mrożona,frozen corn,Tiefkühlmais,simple
-cebula,onion,Zwiebel,simple
-cebula czerwona,red onion,rote Zwiebel,simple
-cebula konserwowa,pickled onion,eingelegte Zwiebeln,simple
-oliwki,olives,Oliven,simple
-oliwki czarne,black olives,schwarze Oliven,simple
-oliwki zielone i czarne,green & black olives,grüne & schwarze Oliven,simple
-oliwa z oliwek,olive oil,Olivenöl,simple
-olej kokosowy,coconut oil,Kokosöl,simple
-olej rzepakowy,rapeseed oil,Rapsöl,simple
-bułka,bread roll,Brötchen,simple
-bułka z ziarnami,seeded bread roll,Körnerbrötchen,simple
-bułka tarta,breadcrumbs,Paniermehl,simple
-chleb,bread,Brot,simple
-chleb żytni,rye bread,Roggenbrot,simple
-chleb żytni pełnoziarnisty,whole-grain rye bread,Vollkornroggenbrot,simple
-chleb tostowy razowy,whole-wheat toast bread,Vollkorntoastbrot,simple
-chleb bez glutenu,gluten-free bread,glutenfreies Brot,simple
-jogurt naturalny,natural yogurt,Naturjoghurt,simple
-serek wiejski,cottage cheese,Hüttenkäse,simple
-masło,butter,Butter,simple
-ser gouda,Gouda cheese,Gouda,simple
-ser żółty,yellow cheese,Schnittkäse,simple
-polędwica sopocka,Polish Sopot loin,Polnische Sopoter Lende,simple
-płatki owsiane,oats,Haferflocken,simple
-kasza jaglana,millet groats,Hirse,simple
-płatki kukurydziane,corn flakes,Cornflakes,simple
-musli z suszonymi owocami,muesli with dried fruit,Müsli mit Trockenfrüchten,simple
-musli,muesli,Müsli,simple
-ryż biały,white rice,weißer Reis,simple
-ryż brązowy,brown rice,Naturreis,simple
-mąka pszenna pełnoziarnista,whole-wheat flour,Vollkornweizenmehl,simple
-mąka pszenna,wheat flour,Weizenmehl,simple
-mąka kukurydziana,corn flour,Maismehl,simple
-mąka gryczana,buckwheat flour,Buchweizenmehl,simple
-mąka orkiszowa,spelt flour,Dinkelmehl,simple
-mąka ryżowa,rice flour,Reismehl,simple
-mąka bez glutenu,gluten-free flour,glutenfreies Mehl,simple
-tapioka,tapioca,Tapioka,simple
-skrobia ziemniaczana,potato starch,Kartoffelstärke,simple
-cukinia,zucchini,Zucchini,simple
-szparagi,asparagus,Spargel,simple
-roszponka,lamb's lettuce,Feldsalat,simple
-szpinak,spinach,Spinat,simple
-szpinak baby świeży,fresh baby spinach,frischer Babyspinat,simple
-szpinak mrożony,frozen spinach,Tiefkühlspinat,simple
-kiełki rzodkiewki,radish sprouts,Radieschensprossen,simple
-chrzan,horseradish,Meerrettich,simple
-pieczarka świeża,fresh mushroom,frischer Champignon,simple
-boczniaki,oyster mushrooms,Austernpilze,simple
-banan,banana,Banane,simple
-siemię lniane,flaxseed,Leinsamen,simple
-pestki dyni,pumpkin seeds,Kürbiskerne,simple
-nasiona słonecznika,sunflower seeds,Sonnenblumenkerne,simple
-nasiona chia,chia seeds,Chiasamen,simple
-płatki migdałów,almond flakes,Mandelblättchen,simple
-migdały,almonds,Mandeln,simple
-orzechy laskowe,hazelnuts,Haselnüsse,simple
-orzeszki ziemne,peanuts,Erdnüsse,simple
-cukier,sugar,Zucker,simple
-drożdże suche,dry yeast,Trockenhefe,simple
-kakao,cocoa powder,Kakaopulver,simple
-proszek do pieczenia,baking powder,Backpulver,simple
-cynamon,cinnamon,Zimt,simple
-sól,salt,Salz,simple
-pieprz,black pepper,schwarzer Pfeffer,simple
-gałka muszkatołowa,nutmeg,Muskatnuss,simple
-jagody goji,goji berries,Goji-Beeren,simple
-pomarańcza,orange,Orange,simple
-cytryna,lemon,Zitrone,simple
-sok cytrynowy,lemon juice,Zitronensaft,simple
-melon,melon,Melone,simple
-granat,pomegranate,Granatapfel,simple
-pomelo,pomelo,Pomelo,simple
-mięta,mint,Minze,simple
-"kolendra, liście",coriander leaves,Korianderblätter,simple
-szczypiorek,chives,Schnittlauch,simple
-"pietruszka, liście",parsley leaves,Petersilie,simple
-koperek,dill,Dill,simple
-kapary,capers,Kapern,simple
-sałata,lettuce,Blattsalat,simple
-sałata lodowa,iceberg lettuce,Eisbergsalat,simple
-sałata karbowana,frisée lettuce,Friséesalat,simple
-sałata mix,mixed lettuce,Blattsalat-Mix,simple
-rukola,arugula / rocket,Rucola,simple
-jarmuż,kale,Grünkohl,simple
-jarmuż mrożony,frozen kale,Tiefkühl-Grünkohl,simple
-seler korzeniowy,celeriac,Knollensellerie,simple
-seler naciowy,celery stalks,Staudensellerie,simple
-por,leek,Lauch,simple
-rzodkiewka,radish,Radieschen,simple
-kalarepa,kohlrabi,Kohlrabi,simple
-ziemniaki,potatoes,Kartoffeln,simple
-marchew,carrot,Karotte,simple
-marchewka mini,baby carrots,Babykarotten,simple
-fasola szparagowa,green beans,grüne Bohnen,simple
-fasola biała,white beans,weiße Bohnen,simple
-fasola czerwona,red beans,rote Bohnen,simple
-fasola mrożona,frozen beans,Tiefkühlbohnen,simple
-bób,broad beans,Saubohnen,simple
-ciecierzyca,chickpeas,Kichererbsen,simple
-ciecierzyca konserwowa,canned chickpeas,Kichererbsen aus der Dose,simple
-groszek zielony,green peas,grüne Erbsen,simple
-soczewica,lentils,Linsen,simple
-soczewica czerwona,red lentils,rote Linsen,simple
-polenta,polenta,Polenta,simple
-kasza kuskus,couscous,Couscous,simple
-kasza pęczak,pearl barley,Perlgraupen,simple
-kasza jęczmienna,barley groats,Gerstengraupen,simple
-komosa ryżowa,quinoa,Quinoa,simple
-kasza gryczana,buckwheat groats,Buchweizen,simple
-makaron ryżowy,rice noodles,Reisnudeln,simple
-makaron spaghetti,spaghetti,Spaghetti,simple
-makaron penne,penne,Penne,simple
-makaron razowy penne,whole-wheat penne,Vollkorn-Penne,simple
-makaron spaghetti razowy,whole-wheat spaghetti,Vollkorn-Spaghetti,simple
-makaron lasagne,lasagne pasta,Lasagne,simple
-makaron bez glutenu,gluten-free pasta,glutenfreie Pasta,simple
-penne bez glutenu,gluten-free penne,glutenfreie Penne,simple
-makaron spaghetti bez glutenu,gluten-free spaghetti,glutenfreie Spaghetti,simple
-cannelloni,cannelloni,Cannelloni,simple
-tacos,taco shells,Taco-Schalen,simple
-quesadilla trójkąty,quesadilla triangles,Quesadilla-Dreiecke,simple
-nachosy,nachos,Nachos,simple
-szynka,ham,Schinken,simple
-szynka parmeńska,Parma ham,Parmaschinken,simple
-indyk,turkey,Pute,simple
-schab,pork loin,Schweinelende,simple
-polędwiczka wieprzowa,pork tenderloin,Schweinefilet,simple
-wołowina,beef,Rindfleisch,simple
-wołowina mielona,ground beef,Rinderhackfleisch,simple
-pierś z kurczaka,chicken breast,Hähnchenbrust,simple
-mięso z piersi kurczaka wędzone,smoked chicken breast,geräucherte Hähnchenbrust,simple
-tofu naturalne,natural tofu,Naturtofu,simple
-tofu wędzone,smoked tofu,Räuchertofu,simple
-ser mozzarella light,light mozzarella,Light-Mozzarella,simple
-ricotta,ricotta cheese,Ricotta,simple
-mascarpone,mascarpone,Mascarpone,simple
-mleko w proszku,milk powder,Milchpulver,simple
-mleko sojowe,soy milk,Sojamilch,simple
-śmietana,sour cream,Sauerrahm,simple
-śmietana sojowa,soy cream,Sojacreme,simple
-mleko kokosowe,coconut milk,Kokosmilch,simple
-wiórki kokosowe,desiccated coconut,Kokosraspeln,simple
-herbatniki,biscuits,Butterkekse,simple
-biszkopty,sponge biscuits,Löffelbiskuits,simple
-biszkopty bez glutenu,gluten-free sponge biscuits,glutenfreie Löffelbiskuits,simple
-wafle ryżowe,rice cakes,Reiswaffeln,simple
-czekolada,chocolate,Schokolade,simple
-czekolada gorzka,dark chocolate,Zartbitterschokolade,simple
-czekolada dropsy,chocolate drops,Schokodrops,simple
-dżem pomarańczowy,orange jam,Orangenmarmelade,simple
-żurawina,cranberries,Cranberrys,simple
-żurawina suszona,dried cranberries,getrocknete Cranberries,simple
-śliwki mrożone,frozen plums,gefrorene Pflaumen,simple
-śliwki suszone,dried plums,getrocknete Pflaumen,simple
-wiśnie mrożone,frozen cherries,gefrorene Kirschen,simple
-daktyle suszone,dried dates,getrocknete Datteln,simple
-słodzik,sweetener,Süßstoff,simple
-wanilia,vanilla,Vanille,simple
-budyń waniliowy,vanilla pudding powder,Vanillepuddingpulver,simple
-amaretto,amaretto,Amaretto,simple
-kawa,coffee,Kaffee,simple
-woda,water,Wasser,simple
-ocet,vinegar,Essig,simple
-ocet balsamiczny,balsamic vinegar,Balsamico-Essig,simple
-sos sojowy,soy sauce,Sojasauce,simple
-ajwar,ajvar,Ajvar,simple
-mieszanka WOK,WOK vegetable mix,WOK-Gemüsemischung,simple
-mieszanka meksykańska,Mexican vegetable mix,mexikanische Gemüsemischung,simple
-mieszanka sombrero,Sombrero vegetable mix,Gemüsemischung Sombrero,simple
-zielony barwnik,green food colouring,grüne Lebensmittelfarbe,simple
-nuggetsy,chicken nuggets,Chicken Nuggets,simple
-ogórek świeży,fresh cucumber,frische Gurke,simple
-bazylia,basil,Basilikum,simple
-majonez,mayonnaise,Mayonnaise,simple
-serek kanapkowy z oliwkami,olive spread cheese,Oliven-Frischkäse,simple
-aromat waniliowy,vanilla flavouring,Vanillearoma,simple
-aromat migdałowy,almond flavouring,Mandelaroma,simple
-chlorella,chlorella,Chlorella,simple
-morele suszone,dried apricots,getrocknete Aprikosen,simple
-budyń czekoladowy,chocolate pudding powder,Schokoladenpuddingpulver,simple
-wiśnia kostka,diced sour cherries,gewürfelte Sauerkirschen,simple
-mandarynka,mandarin,Mandarine,simple
-ananas z puszki,canned pineapple,Ananas aus der Dose,simple
-bułka grahamka,graham roll,Grahambrötchen,simple
-bułka gryczana,buckwheat roll,Buchweizenbrötchen,simple
-papryka czerwona/mix mrożona,frozen red pepper mix,gefrorene rote Paprika-Mischung,simple
-brokuły mrożone,frozen broccoli,Tiefkühlbrokkoli,simple
-buraczki ćwikła,beetroot salad,Rote-Bete-Salat,simple
-dorsz świeży,fresh cod,frischer Kabeljau,simple
-brokuły,broccoli,Brokkoli,simple
-kasza bulgur,bulgur,Bulgur,simple
-modra kapusta,red cabbage,Rotkohl,simple
-wino białe,white wine,Weißwein,simple
-ananas z zalewą,pineapple in juice,Ananas im eigenen Saft,simple
-tuńczyk,tuna,Thunfisch,simple
-sok pomarańczowy,orange juice,Orangensaft,simple
-wino czerwone,red wine,Rotwein,simple
-amarantus ekspandowany,puffed amaranth,gepuffter Amaranth,simple
-omlet z jaj,homemade egg omelet,selbstgemachtes Omelett,component
-omlet jajeczny z mąką GF,egg omelet with GF flour,Eieromelett mit glutenfreiem Mehl,component
-omlet GF,GF omelet,glutenfreies Omelett,component
-dip z suszonych pomidorów,sun-dried tomato dip,Dip aus getrockneten Tomaten,component
-mus,fruit purée component,Fruchtmus-Komponente,component
-zapiekana kasza jaglana,baked millet component,gebackene Hirse-Komponente,component
-duszony jarmuż,stewed kale component,gedünsteter Grünkohl,component
-salsa,salsa component,Salsa-Komponente,component
-chleb z jajkiem,egg bread component,Brot mit Ei,component
-jaglanka,millet porridge component,Hirsebrei,component
-dip szczypiorkowy,chive dip,Schnittlauch-Dip,component
-gzik,gzik quark component,Gzik-Quark-Komponente,component
-belriso,Belriso component,Belriso-Komponente,component
-dip koperkowy,dill dip,Dill-Dip,component
-dip curry,curry dip,Curry-Dip,component
-koktajl LF,LF smoothie,LF-Smoothie,component
-sos kokosowy,coconut sauce,Kokossauce,component
-pina colada (koktajl),piña colada smoothie,Piña-Colada-Smoothie,component
-pesto z rukoli,rocket pesto,Rucola-Pesto,component
-pesto,pesto,Pesto,component
-słodko-ostra salsa,sweet-hot salsa,süß-scharfe Salsa,component
-chilli con carne,chilli con carne,Chili con Carne,component
-marchew z groszkiem,carrots and peas,Möhren mit Erbsen,component
-sos tymiankowy,thyme sauce,Thymiansauce,component
-surówka skosztuj zdrowia,Skosztuj Zdrowia salad,Salat-Komponente,component
-sos słodko-kwaśny,sweet and sour sauce,Süß-Sauer-Sauce,component
-sałatka szwedzka,Swedish salad,Schwedischer Salat,component
-surówka z rzepy,turnip slaw,Rübensalat,component
-sałatka z buraczków,beetroot salad,Rote-Bete-Salat,component
-surówka po chińsku,Chinese slaw,Chinesischer Krautsalat,component
-brokuły z czosnkiem i cebulą,broccoli with garlic and onion,Brokkoli mit Knoblauch und Zwiebeln,component
-sos koperkowy,dill sauce,Dillsauce,component
-sos paprykowy,pepper sauce,Paprikasauce,component
-sos,sauce component,Saucen-Komponente,component
-sos słodko-ostry,sweet and spicy sauce,süß-scharfe Sauce,component
-tarta ze szparagami,asparagus tart,Spargeltarte,component
-kasza z awokado i ziołami,couscous with avocado and herbs,Couscous mit Avocado und Kräutern,component
-relisz,relish,Relish,component
-pasta paprykowo-warzywna,pepper-vegetable spread,Paprika-Gemüse-Aufstrich,component
-tajski sos,Thai sauce,Thai-Sauce,component
-kokosowy kurczak,coconut chicken,Kokos-Hähnchen,component
-tarta porowa z kurczakiem,leek chicken tart,Lauch-Hähnchen-Tarte,component
-gulasz,stew component,Eintopf-Komponente,component
-zupa gulaszowa,goulash soup component,Gulaschsuppe-Komponente,component
-pesto bazyliowe,basil pesto,Basilikumpesto,component
-sos carbonara,carbonara sauce,Carbonara-Sauce,component
-tapenada,tapenade,Tapenade,component
-dip pomidorowy,tomato dip,Tomaten-Dip,component
-sos arabiatta,arrabbiata sauce,Arrabbiata-Sauce,component
-winegret,vinaigrette,Vinaigrette,component
-mietowy winegret,mint vinaigrette,Minz-Vinaigrette,component
-pizza ze szpinakiem,spinach pizza component,Spinatpizza-Komponente,component
-zapiekanka ryżowa,rice bake component,Reisauflauf-Komponente,component
-zapiekanka po grecku,Greek-style casserole component,Griechischer Auflauf,component
-minestrone,minestrone component,Minestrone-Komponente,component
-dip czosnkowy,garlic dip,Knoblauch-Dip,component
-chutney mango,mango chutney,Mango-Chutney,component
-sos czosnkowy,garlic sauce,Knoblauchsauce,component
-guacamole,guacamole,Guacamole,component
-sos orzechowy,nut sauce,Nusssauce,component
-sos miodowo-cytrynowy,honey-lemon sauce,Honig-Zitronen-Sauce,component
-zapiekanka,casserole,Auflauf,component
-duszone warzywa,stewed vegetables,gedünstetes Gemüse,component
-kuskus z awokado i ziołami,couscous with avocado and herbs,Couscous mit Avocado und Kräutern,component
-"kasza bulgur z warzywami, szczypiorkiem i pietruszką","bulgur with vegetables, chives and parsley","Bulgur mit Gemüse, Schnittlauch und Petersilie",component
-"komosa z warzywami, szczypiorkiem i pietruszką","quinoa with vegetables, chives and parsley","Quinoa mit Gemüse, Schnittlauch und Petersilie",component
-kokosanki,coconut macaroons,Kokosmakronen,component
-koktajl,smoothie,Smoothie,component
-smoothie,smoothie,Smoothie,component
-pudding,pudding,Pudding,component
-panna cotta,panna cotta,Panna Cotta,component
-crumble,crumble,Crumble,component
-masa budyniowa,pudding filling,Puddingmasse,component
-masa serowa,cheese filling,Käsemasse,component
-masa sernikowa,cheesecake filling,Käsekuchenmasse,component
-masa kokosowa,coconut filling,Kokosmasse,component
-masa czekoladowa,chocolate filling,Schokoladenmasse,component
-mus malinowy,raspberry purée,Himbeermus,component
-mus truskawkowy,strawberry purée,Erdbeermus,component
-krem Raffaello,Raffaello cream,Raffaello-Creme,component
-tiramisu truskawkowe,strawberry tiramisu,Erdbeer-Tiramisu,component
-ananas z kokosem,pineapple with coconut,Ananas mit Kokos,component
-bounty,Bounty,Bounty,component
-lion,Lion,Lion,component
-princessa,Princessa,Princessa,component
-Fit lion,Fit Lion,Fit Lion,component
-Fit Snickers,Fit Snickers,Fit Snickers,component
-Baton Kinder Country Fit,Kinder Country Fit bar,Kinder-Country-Fit-Riegel,component
-chlebek bananowy,banana bread,Bananenbrot,component
-chlebek,bread,Brot,component
-ciasto marchewkowe,carrot cake,Karottenkuchen,component
-czekoladowe ciasto,chocolate cake,Schokoladenkuchen,component
-ciasteczka czekoladowe,chocolate cookies,Schokoladenkekse,component
-trufle,truffles,Schokoladentrüffel,component
-muffinki,muffins,Muffins,component
+"canonical_name_pl","name_en","name_de","type"
+"mleko","milk","Milch","simple"
+"jajka","eggs","Eier","simple"
+"waniliowy serek homogenizowany","vanilla quark","Vanillequark","simple"
+"miód","honey","Honig","simple"
+"ser feta","feta cheese","Fetakäse","simple"
+"ser mozzarella","mozzarella cheese","Mozzarella","simple"
+"ser mozzarella wiórki","shredded mozzarella cheese","geriebener Mozzarella","simple"
+"mini kulki mozzarelli","mini mozzarella balls","Mini-Mozzarellakugeln","simple"
+"twaróg","quark","Quark","simple"
+"twaróg chudy","low-fat quark","Magerquark","simple"
+"serek homogenizowany","quark","Quark","simple"
+"tortilla pełnoziarnista","whole-wheat tortilla","Vollkorn-Tortilla","simple"
+"tortilla bez glutenu","gluten-free tortilla","glutenfreie Tortilla","simple"
+"owoce leśne","mixed berries","Waldfrüchte","simple"
+"pomidor","tomato","Tomate","simple"
+"pomidor koktajlowy","cherry tomato","Kirschtomate","simple"
+"pomidor pelati","pelati tomatoes","Pelati-Tomaten","simple"
+"pomidory z puszki","canned tomatoes","Dosentomaten","simple"
+"suszone pomidory","sun-dried tomatoes","getrocknete Tomaten","simple"
+"koncentrat pomidorowy","tomato paste","Tomatenmark","simple"
+"papryka","bell pepper","Paprika","simple"
+"papryka czerwona","red bell pepper","rote Paprika","simple"
+"papryka zielona","green bell pepper","grüne Paprika","simple"
+"papryka żółta","yellow bell pepper","gelbe Paprika","simple"
+"papryka chilli","chilli pepper","Chilischote","simple"
+"papryka jalapeño","jalapeño pepper","Jalapeño","simple"
+"truskawki","strawberries","Erdbeeren","simple"
+"truskawki mrożone","frozen strawberries","gefrorene Erdbeeren","simple"
+"maliny","raspberries","Himbeeren","simple"
+"maliny mrożone","frozen raspberries","gefrorene Himbeeren","simple"
+"brzoskwinia mrożona","frozen peach","gefrorener Pfirsich","simple"
+"brzoskwinia z puszki","canned peach","Pfirsich aus der Dose","simple"
+"jabłko prażone","stewed apple","gedünsteter Apfel","simple"
+"jabłko pieczone","baked apple","gebackener Apfel","simple"
+"jabłko","apple","Apfel","simple"
+"mango z puszki","canned mango","Mango aus der Dose","simple"
+"mango","fresh mango","frische Mango","simple"
+"kukurydza z puszki","canned corn","Mais aus der Dose","simple"
+"kukurydza mrożona","frozen corn","Tiefkühlmais","simple"
+"cebula","onion","Zwiebel","simple"
+"cebula czerwona","red onion","rote Zwiebel","simple"
+"cebula konserwowa","pickled onion","eingelegte Zwiebeln","simple"
+"oliwki","olives","Oliven","simple"
+"oliwki czarne","black olives","schwarze Oliven","simple"
+"oliwki zielone i czarne","green & black olives","grüne & schwarze Oliven","simple"
+"oliwa z oliwek","olive oil","Olivenöl","simple"
+"olej kokosowy","coconut oil","Kokosöl","simple"
+"olej rzepakowy","rapeseed oil","Rapsöl","simple"
+"bułka","bread roll","Brötchen","simple"
+"bułka z ziarnami","seeded bread roll","Körnerbrötchen","simple"
+"bułka tarta","breadcrumbs","Paniermehl","simple"
+"chleb","bread","Brot","simple"
+"chleb żytni","rye bread","Roggenbrot","simple"
+"chleb żytni pełnoziarnisty","whole-grain rye bread","Vollkornroggenbrot","simple"
+"chleb tostowy razowy","whole-wheat toast bread","Vollkorntoastbrot","simple"
+"chleb bez glutenu","gluten-free bread","glutenfreies Brot","simple"
+"jogurt naturalny","natural yogurt","Naturjoghurt","simple"
+"serek wiejski","cottage cheese","Hüttenkäse","simple"
+"masło","butter","Butter","simple"
+"ser gouda","Gouda cheese","Gouda","simple"
+"ser żółty","yellow cheese","Schnittkäse","simple"
+"polędwica sopocka","Polish Sopot loin","Polnische Sopoter Lende","simple"
+"płatki owsiane","oats","Haferflocken","simple"
+"kasza jaglana","millet groats","Hirse","simple"
+"płatki kukurydziane","corn flakes","Cornflakes","simple"
+"musli z suszonymi owocami","muesli with dried fruit","Müsli mit Trockenfrüchten","simple"
+"musli","muesli","Müsli","simple"
+"ryż biały","white rice","weißer Reis","simple"
+"ryż brązowy","brown rice","Naturreis","simple"
+"mąka pszenna pełnoziarnista","whole-wheat flour","Vollkornweizenmehl","simple"
+"mąka pszenna","wheat flour","Weizenmehl","simple"
+"mąka kukurydziana","corn flour","Maismehl","simple"
+"mąka gryczana","buckwheat flour","Buchweizenmehl","simple"
+"mąka orkiszowa","spelt flour","Dinkelmehl","simple"
+"mąka ryżowa","rice flour","Reismehl","simple"
+"mąka bez glutenu","gluten-free flour","glutenfreies Mehl","simple"
+"tapioka","tapioca","Tapioka","simple"
+"skrobia ziemniaczana","potato starch","Kartoffelstärke","simple"
+"cukinia","zucchini","Zucchini","simple"
+"szparagi","asparagus","Spargel","simple"
+"roszponka","lamb's lettuce","Feldsalat","simple"
+"szpinak","spinach","Spinat","simple"
+"szpinak baby świeży","fresh baby spinach","frischer Babyspinat","simple"
+"szpinak mrożony","frozen spinach","Tiefkühlspinat","simple"
+"kiełki rzodkiewki","radish sprouts","Radieschensprossen","simple"
+"chrzan","horseradish","Meerrettich","simple"
+"pieczarka świeża","fresh mushroom","frischer Champignon","simple"
+"boczniaki","oyster mushrooms","Austernpilze","simple"
+"banan","banana","Banane","simple"
+"siemię lniane","flaxseed","Leinsamen","simple"
+"pestki dyni","pumpkin seeds","Kürbiskerne","simple"
+"nasiona słonecznika","sunflower seeds","Sonnenblumenkerne","simple"
+"nasiona chia","chia seeds","Chiasamen","simple"
+"płatki migdałów","almond flakes","Mandelblättchen","simple"
+"migdały","almonds","Mandeln","simple"
+"orzechy laskowe","hazelnuts","Haselnüsse","simple"
+"orzeszki ziemne","peanuts","Erdnüsse","simple"
+"cukier","sugar","Zucker","simple"
+"drożdże suche","dry yeast","Trockenhefe","simple"
+"kakao","cocoa powder","Kakaopulver","simple"
+"proszek do pieczenia","baking powder","Backpulver","simple"
+"cynamon","cinnamon","Zimt","simple"
+"sól","salt","Salz","simple"
+"pieprz","black pepper","schwarzer Pfeffer","simple"
+"gałka muszkatołowa","nutmeg","Muskatnuss","simple"
+"jagody goji","goji berries","Goji-Beeren","simple"
+"pomarańcza","orange","Orange","simple"
+"cytryna","lemon","Zitrone","simple"
+"sok cytrynowy","lemon juice","Zitronensaft","simple"
+"melon","melon","Melone","simple"
+"granat","pomegranate","Granatapfel","simple"
+"pomelo","pomelo","Pomelo","simple"
+"mięta","mint","Minze","simple"
+"kolendra, liście","coriander leaves","Korianderblätter","simple"
+"szczypiorek","chives","Schnittlauch","simple"
+"pietruszka, liście","parsley leaves","Petersilie","simple"
+"koperek","dill","Dill","simple"
+"kapary","capers","Kapern","simple"
+"sałata","lettuce","Blattsalat","simple"
+"sałata lodowa","iceberg lettuce","Eisbergsalat","simple"
+"sałata karbowana","frisée lettuce","Friséesalat","simple"
+"sałata mix","mixed lettuce","Blattsalat-Mix","simple"
+"rukola","arugula / rocket","Rucola","simple"
+"jarmuż","kale","Grünkohl","simple"
+"jarmuż mrożony","frozen kale","Tiefkühl-Grünkohl","simple"
+"seler korzeniowy","celeriac","Knollensellerie","simple"
+"seler naciowy","celery stalks","Staudensellerie","simple"
+"por","leek","Lauch","simple"
+"rzodkiewka","radish","Radieschen","simple"
+"kalarepa","kohlrabi","Kohlrabi","simple"
+"ziemniaki","potatoes","Kartoffeln","simple"
+"marchew","carrot","Karotte","simple"
+"marchewka mini","baby carrots","Babykarotten","simple"
+"fasola szparagowa","green beans","grüne Bohnen","simple"
+"fasola biała","white beans","weiße Bohnen","simple"
+"fasola czerwona","red beans","rote Bohnen","simple"
+"fasola mrożona","frozen beans","Tiefkühlbohnen","simple"
+"bób","broad beans","Saubohnen","simple"
+"ciecierzyca","chickpeas","Kichererbsen","simple"
+"ciecierzyca konserwowa","canned chickpeas","Kichererbsen aus der Dose","simple"
+"groszek zielony","green peas","grüne Erbsen","simple"
+"soczewica","lentils","Linsen","simple"
+"soczewica czerwona","red lentils","rote Linsen","simple"
+"polenta","polenta","Polenta","simple"
+"kasza kuskus","couscous","Couscous","simple"
+"kasza pęczak","pearl barley","Perlgraupen","simple"
+"kasza jęczmienna","barley groats","Gerstengraupen","simple"
+"komosa ryżowa","quinoa","Quinoa","simple"
+"kasza gryczana","buckwheat groats","Buchweizen","simple"
+"makaron ryżowy","rice noodles","Reisnudeln","simple"
+"makaron spaghetti","spaghetti","Spaghetti","simple"
+"makaron penne","penne","Penne","simple"
+"makaron razowy penne","whole-wheat penne","Vollkorn-Penne","simple"
+"makaron spaghetti razowy","whole-wheat spaghetti","Vollkorn-Spaghetti","simple"
+"makaron lasagne","lasagne pasta","Lasagne","simple"
+"makaron bez glutenu","gluten-free pasta","glutenfreie Pasta","simple"
+"penne bez glutenu","gluten-free penne","glutenfreie Penne","simple"
+"makaron spaghetti bez glutenu","gluten-free spaghetti","glutenfreie Spaghetti","simple"
+"cannelloni","cannelloni","Cannelloni","simple"
+"tacos","taco shells","Taco-Schalen","simple"
+"quesadilla trójkąty","quesadilla triangles","Quesadilla-Dreiecke","simple"
+"nachosy","nachos","Nachos","simple"
+"szynka","ham","Schinken","simple"
+"szynka parmeńska","Parma ham","Parmaschinken","simple"
+"indyk","turkey","Pute","simple"
+"schab","pork loin","Schweinelende","simple"
+"polędwiczka wieprzowa","pork tenderloin","Schweinefilet","simple"
+"wołowina","beef","Rindfleisch","simple"
+"wołowina mielona","ground beef","Rinderhackfleisch","simple"
+"pierś z kurczaka","chicken breast","Hähnchenbrust","simple"
+"mięso z piersi kurczaka wędzone","smoked chicken breast","geräucherte Hähnchenbrust","simple"
+"tofu naturalne","natural tofu","Naturtofu","simple"
+"tofu wędzone","smoked tofu","Räuchertofu","simple"
+"ser mozzarella light","light mozzarella","Light-Mozzarella","simple"
+"ricotta","ricotta cheese","Ricotta","simple"
+"mascarpone","mascarpone","Mascarpone","simple"
+"mleko w proszku","milk powder","Milchpulver","simple"
+"mleko sojowe","soy milk","Sojamilch","simple"
+"śmietana","sour cream","Sauerrahm","simple"
+"śmietana sojowa","soy cream","Sojacreme","simple"
+"mleko kokosowe","coconut milk","Kokosmilch","simple"
+"wiórki kokosowe","desiccated coconut","Kokosraspeln","simple"
+"herbatniki","biscuits","Butterkekse","simple"
+"biszkopty","sponge biscuits","Löffelbiskuits","simple"
+"biszkopty bez glutenu","gluten-free sponge biscuits","glutenfreie Löffelbiskuits","simple"
+"wafle ryżowe","rice cakes","Reiswaffeln","simple"
+"czekolada","chocolate","Schokolade","simple"
+"czekolada gorzka","dark chocolate","Zartbitterschokolade","simple"
+"czekolada dropsy","chocolate drops","Schokodrops","simple"
+"dżem pomarańczowy","orange jam","Orangenmarmelade","simple"
+"żurawina","cranberries","Cranberrys","simple"
+"żurawina suszona","dried cranberries","getrocknete Cranberries","simple"
+"śliwki mrożone","frozen plums","gefrorene Pflaumen","simple"
+"śliwki suszone","dried plums","getrocknete Pflaumen","simple"
+"wiśnie mrożone","frozen cherries","gefrorene Kirschen","simple"
+"daktyle suszone","dried dates","getrocknete Datteln","simple"
+"słodzik","sweetener","Süßstoff","simple"
+"wanilia","vanilla","Vanille","simple"
+"budyń waniliowy","vanilla pudding powder","Vanillepuddingpulver","simple"
+"amaretto","amaretto","Amaretto","simple"
+"kawa","coffee","Kaffee","simple"
+"woda","water","Wasser","simple"
+"ocet","vinegar","Essig","simple"
+"ocet balsamiczny","balsamic vinegar","Balsamico-Essig","simple"
+"sos sojowy","soy sauce","Sojasauce","simple"
+"ajwar","ajvar","Ajvar","simple"
+"mieszanka WOK","WOK vegetable mix","WOK-Gemüsemischung","simple"
+"mieszanka meksykańska","Mexican vegetable mix","mexikanische Gemüsemischung","simple"
+"mieszanka sombrero","Sombrero vegetable mix","Gemüsemischung Sombrero","simple"
+"zielony barwnik","green food colouring","grüne Lebensmittelfarbe","simple"
+"nuggetsy","chicken nuggets","Chicken Nuggets","simple"
+"ogórek świeży","fresh cucumber","frische Gurke","simple"
+"bazylia","basil","Basilikum","simple"
+"majonez","mayonnaise","Mayonnaise","simple"
+"serek kanapkowy z oliwkami","olive spread cheese","Oliven-Frischkäse","simple"
+"aromat waniliowy","vanilla flavouring","Vanillearoma","simple"
+"aromat migdałowy","almond flavouring","Mandelaroma","simple"
+"chlorella","chlorella","Chlorella","simple"
+"morele suszone","dried apricots","getrocknete Aprikosen","simple"
+"budyń czekoladowy","chocolate pudding powder","Schokoladenpuddingpulver","simple"
+"wiśnia kostka","diced sour cherries","gewürfelte Sauerkirschen","simple"
+"mandarynka","mandarin","Mandarine","simple"
+"ananas z puszki","canned pineapple","Ananas aus der Dose","simple"
+"bułka grahamka","graham roll","Grahambrötchen","simple"
+"bułka gryczana","buckwheat roll","Buchweizenbrötchen","simple"
+"papryka czerwona/mix mrożona","frozen red pepper mix","gefrorene rote Paprika-Mischung","simple"
+"brokuły mrożone","frozen broccoli","Tiefkühlbrokkoli","simple"
+"buraczki ćwikła","beetroot salad","Rote-Bete-Salat","simple"
+"dorsz świeży","fresh cod","frischer Kabeljau","simple"
+"brokuły","broccoli","Brokkoli","simple"
+"kasza bulgur","bulgur","Bulgur","simple"
+"modra kapusta","red cabbage","Rotkohl","simple"
+"wino białe","white wine","Weißwein","simple"
+"ananas z zalewą","pineapple in juice","Ananas im eigenen Saft","simple"
+"tuńczyk","tuna","Thunfisch","simple"
+"sok pomarańczowy","orange juice","Orangensaft","simple"
+"wino czerwone","red wine","Rotwein","simple"
+"amarantus ekspandowany","puffed amaranth","gepuffter Amaranth","simple"
+"omlet z jaj","homemade egg omelet","selbstgemachtes Omelett","component"
+"omlet jajeczny z mąką GF","egg omelet with GF flour","Eieromelett mit glutenfreiem Mehl","component"
+"omlet GF","GF omelet","glutenfreies Omelett","component"
+"dip z suszonych pomidorów","sun-dried tomato dip","Dip aus getrockneten Tomaten","component"
+"mus","fruit purée component","Fruchtmus-Komponente","component"
+"zapiekana kasza jaglana","baked millet component","gebackene Hirse-Komponente","component"
+"duszony jarmuż","stewed kale component","gedünsteter Grünkohl","component"
+"salsa","salsa component","Salsa-Komponente","component"
+"chleb z jajkiem","egg bread component","Brot mit Ei","component"
+"jaglanka","millet porridge component","Hirsebrei","component"
+"dip szczypiorkowy","chive dip","Schnittlauch-Dip","component"
+"gzik","gzik quark component","Gzik-Quark-Komponente","component"
+"belriso","Belriso component","Belriso-Komponente","component"
+"dip koperkowy","dill dip","Dill-Dip","component"
+"dip curry","curry dip","Curry-Dip","component"
+"koktajl LF","LF smoothie","LF-Smoothie","component"
+"sos kokosowy","coconut sauce","Kokossauce","component"
+"pina colada (koktajl)","piña colada smoothie","Piña-Colada-Smoothie","component"
+"pesto z rukoli","rocket pesto","Rucola-Pesto","component"
+"pesto","pesto","Pesto","component"
+"słodko-ostra salsa","sweet-hot salsa","süß-scharfe Salsa","component"
+"chilli con carne","chilli con carne","Chili con Carne","component"
+"marchew z groszkiem","carrots and peas","Möhren mit Erbsen","component"
+"sos tymiankowy","thyme sauce","Thymiansauce","component"
+"surówka skosztuj zdrowia","Skosztuj Zdrowia salad","Salat-Komponente","component"
+"sos słodko-kwaśny","sweet and sour sauce","Süß-Sauer-Sauce","component"
+"sałatka szwedzka","Swedish salad","Schwedischer Salat","component"
+"surówka z rzepy","turnip slaw","Rübensalat","component"
+"sałatka z buraczków","beetroot salad","Rote-Bete-Salat","component"
+"surówka po chińsku","Chinese slaw","Chinesischer Krautsalat","component"
+"brokuły z czosnkiem i cebulą","broccoli with garlic and onion","Brokkoli mit Knoblauch und Zwiebeln","component"
+"sos koperkowy","dill sauce","Dillsauce","component"
+"sos paprykowy","pepper sauce","Paprikasauce","component"
+"sos","sauce component","Saucen-Komponente","component"
+"sos słodko-ostry","sweet and spicy sauce","süß-scharfe Sauce","component"
+"tarta ze szparagami","asparagus tart","Spargeltarte","component"
+"kasza z awokado i ziołami","couscous with avocado and herbs","Couscous mit Avocado und Kräutern","component"
+"relisz","relish","Relish","component"
+"pasta paprykowo-warzywna","pepper-vegetable spread","Paprika-Gemüse-Aufstrich","component"
+"tajski sos","Thai sauce","Thai-Sauce","component"
+"kokosowy kurczak","coconut chicken","Kokos-Hähnchen","component"
+"tarta porowa z kurczakiem","leek chicken tart","Lauch-Hähnchen-Tarte","component"
+"gulasz","stew component","Eintopf-Komponente","component"
+"zupa gulaszowa","goulash soup component","Gulaschsuppe-Komponente","component"
+"pesto bazyliowe","basil pesto","Basilikumpesto","component"
+"sos carbonara","carbonara sauce","Carbonara-Sauce","component"
+"tapenada","tapenade","Tapenade","component"
+"dip pomidorowy","tomato dip","Tomaten-Dip","component"
+"sos arabiatta","arrabbiata sauce","Arrabbiata-Sauce","component"
+"winegret","vinaigrette","Vinaigrette","component"
+"mietowy winegret","mint vinaigrette","Minz-Vinaigrette","component"
+"pizza ze szpinakiem","spinach pizza component","Spinatpizza-Komponente","component"
+"zapiekanka ryżowa","rice bake component","Reisauflauf-Komponente","component"
+"zapiekanka po grecku","Greek-style casserole component","Griechischer Auflauf","component"
+"minestrone","minestrone component","Minestrone-Komponente","component"
+"dip czosnkowy","garlic dip","Knoblauch-Dip","component"
+"chutney mango","mango chutney","Mango-Chutney","component"
+"sos czosnkowy","garlic sauce","Knoblauchsauce","component"
+"guacamole","guacamole","Guacamole","component"
+"sos orzechowy","nut sauce","Nusssauce","component"
+"sos miodowo-cytrynowy","honey-lemon sauce","Honig-Zitronen-Sauce","component"
+"zapiekanka","casserole","Auflauf","component"
+"duszone warzywa","stewed vegetables","gedünstetes Gemüse","component"
+"kuskus z awokado i ziołami","couscous with avocado and herbs","Couscous mit Avocado und Kräutern","component"
+"kasza bulgur z warzywami, szczypiorkiem i pietruszką","bulgur with vegetables, chives and parsley","Bulgur mit Gemüse, Schnittlauch und Petersilie","component"
+"komosa z warzywami, szczypiorkiem i pietruszką","quinoa with vegetables, chives and parsley","Quinoa mit Gemüse, Schnittlauch und Petersilie","component"
+"kokosanki","coconut macaroons","Kokosmakronen","component"
+"koktajl","smoothie","Smoothie","component"
+"smoothie","smoothie","Smoothie","component"
+"pudding","pudding","Pudding","component"
+"panna cotta","panna cotta","Panna Cotta","component"
+"crumble","crumble","Crumble","component"
+"masa budyniowa","pudding filling","Puddingmasse","component"
+"masa serowa","cheese filling","Käsemasse","component"
+"masa sernikowa","cheesecake filling","Käsekuchenmasse","component"
+"masa kokosowa","coconut filling","Kokosmasse","component"
+"masa czekoladowa","chocolate filling","Schokoladenmasse","component"
+"mus malinowy","raspberry purée","Himbeermus","component"
+"mus truskawkowy","strawberry purée","Erdbeermus","component"
+"krem Raffaello","Raffaello cream","Raffaello-Creme","component"
+"tiramisu truskawkowe","strawberry tiramisu","Erdbeer-Tiramisu","component"
+"ananas z kokosem","pineapple with coconut","Ananas mit Kokos","component"
+"bounty","Bounty","Bounty","component"
+"lion","Lion","Lion","component"
+"princessa","Princessa","Princessa","component"
+"Fit lion","Fit Lion","Fit Lion","component"
+"Fit Snickers","Fit Snickers","Fit Snickers","component"
+"Baton Kinder Country Fit","Kinder Country Fit bar","Kinder-Country-Fit-Riegel","component"
+"chlebek bananowy","banana bread","Bananenbrot","component"
+"chlebek","bread","Brot","component"
+"ciasto marchewkowe","carrot cake","Karottenkuchen","component"
+"czekoladowe ciasto","chocolate cake","Schokoladenkuchen","component"
+"ciasteczka czekoladowe","chocolate cookies","Schokoladenkekse","component"
+"trufle","truffles","Schokoladentrüffel","component"
+"muffinki","muffins","Muffins","component"
